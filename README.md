@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, This is Jinhyeok Park</h1>
 <h3 align="left">I'm a student majoring in Industrial Engineering and Computer Science at Hanyang University in Korea.</h4>
-<h4 align="left">I'm interest in Machine& Deep Learning, and Finance engineering.</h4>
+<h4 align="left">I'm interest in Machine & Deep Learning, and Finance engineering.</h4>
 
 
 - 🔭 I’m currently working on **Long time series forcasting paper review**
