@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, This is Jinhyeok Park</h1>
-<h3 align="left">I'm a student majoring in Industrial Engineering and Computer Science at Hanyang University in Korea.</h4>
-<h4 align="left">I'm interest in Machine & Deep Learning, and Finance engineering.</h4>
+<h3 align="left">I'm a Master's student in Industrial Engineering at Korea Advanced Institute of Science and Technology in Korea.</h4>
+<h4 align="left">I'm interest in Machine & Deep Learning, Statistcial approach for Time series.</h4>
 
 
-- 🔭 I’m currently working on **Long time series forcasting paper review**
+- 🔭 I’m currently working on ***
 
-- 🌱 I’m currently learning **Finance Engineering, Time series forcastring, Machine Learning**
+- 🌱 I’m currently learning **Time series, Machine Learning**
 
 - 📝 I write articles on [https://secundo.tistory.com/](https://secundo.tistory.com/)
 
