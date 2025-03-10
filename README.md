@@ -3,7 +3,7 @@
 <h4 align="left">I'm interest in Machine & Deep Learning, Statistcial approach for Time series.</h4>
 
 
-- 🔭 I’m currently working on ***
+- 🔭 I’m currently working on **Change point Detection using ML**
 
 - 🌱 I’m currently learning **Change point Detection & Out of Distribution problem**
 
