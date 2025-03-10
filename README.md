@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ***
 
-- 🌱 I’m currently learning **Time series, Machine Learning**
+- 🌱 I’m currently learning **Change point Detection & Out of Distribution problem**
 
 - 📝 I write articles on [https://secundo.tistory.com/](https://secundo.tistory.com/)
 
